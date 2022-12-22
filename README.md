@@ -27,5 +27,5 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```
  ## Install additional packages
  ```
- choco install hit
+ choco install git
  ```
